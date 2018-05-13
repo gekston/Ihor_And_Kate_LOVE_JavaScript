@@ -1,1 +1,1 @@
-import navBar from './components/navbar/index.js'
+import navBar from './components/navBar/index.js'
