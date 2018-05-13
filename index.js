@@ -1,2 +1,1 @@
-let a = 2
-console.log(a)
+import navBar from './components/navbar/index.js'
