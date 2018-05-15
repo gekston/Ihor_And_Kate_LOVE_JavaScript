@@ -8,4 +8,5 @@ document.addEventListener('DOMContentLoaded', () => {
   document.body.appendChild(form)
   const name_input = document.createElement('input')
   name_input.setAttribute('class', 'input-name')
+  form.appendChild(name_input)
 })
